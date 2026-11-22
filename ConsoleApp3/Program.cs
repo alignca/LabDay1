@@ -103,10 +103,13 @@
             //Console.WriteLine("Sum = " + sum);
 
 
+            //int a = 5;
+            //for (int i = 1; i <= 10; i++)
+            //    Console.WriteLine($"{i} * {a} = {i * a}");
 
-            
 
-            
+
+
 
 
 
